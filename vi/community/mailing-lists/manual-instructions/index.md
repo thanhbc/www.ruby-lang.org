@@ -47,7 +47,7 @@ Ruby-CVS
     unsubscribe
 {: .code}
 
-Vui lòng chắc chắn là nội chung gửi đi chỉ có văn bản thuần,
+Vui lòng chắc chắn là nội chung gửi đi chỉ có văn bản thuần, 
 bất cứ thư có định dạng HTML nào đều không được.
 
 ### Mẹo nhỏ
